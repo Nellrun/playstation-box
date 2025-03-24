@@ -6,7 +6,7 @@ from utils import convert_play_duration, duration_sorter, build_duration
 
 # Token from https://ca.account.sony.com/api/v1/ssocookie
 NPSSO = "ololol"
-OUTPUT_TABLE = "outs/psn.csv"
+OUTPUT_TABLE = "psn.csv"
 
 
 if __name__ == "__main__":
